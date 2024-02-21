@@ -1,5 +1,5 @@
 # ----- B1705 Week 5 | Standardisation and Normalisation | 14.02.2024 -----
-# ----- PRE-LECTURE WORK -----
+# ----- LECTURE WORK -----
 
 # Standardisation; This gives a mean of 0 and SD of 1 for each variable.
 # Normalisation; the scales each variable to a range between 0 and 1.
@@ -94,6 +94,6 @@ ggplot(data_melted, aes(x = Vector, y = Value, color = Type)) +
   scale_color_brewer(palette = "Set2") + 
   labs(title = "Box Plot of Vectors by Preprocessing Type", x = "Vector", y = "Value")
 
-# ----- LECTURE WORK -----
+
 
 

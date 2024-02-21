@@ -1,5 +1,5 @@
 # ----- B1705 Week 5 | Effect Sizes | 14.02.2024 -----
-# ----- PRE-LECTURE WORK -----
+# ----- LECTURE WORK -----
 # Cohen's D: used to measure the difference between two groups’ means
 # in relation to their standard deviation, quantifying the size of the effect
 
@@ -139,7 +139,6 @@ barplot(prop_table, beside = TRUE, col = c("lightblue", "salmon"),
         xlab = "Outcome", ylab = "Proportion",
         main = "Proportion of Disease by Group")
 
-# ----- LECTURE WORK -----
 
 
 
